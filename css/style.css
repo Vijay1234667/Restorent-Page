@@ -527,6 +527,9 @@
   .logo {
     width: 170px;
   }
+  .banner-alpha{
+    text-align: center;
+  }
   .navbar-nav li a {
     line-height: 20px;
     font-size: 14px;
