@@ -860,3 +860,48 @@ width: 160px;
   font-size: 14px;
 }
 }
+
+@media only screen and (min-width: 767px) and (max-width: 1224px){
+  .logo {
+    width: 208px;
+    height: 70px;
+  }
+
+  /* banner-section */
+  .banner-section {
+    padding: 20px 0px 80px;
+  }
+
+ 
+  .banner-right-dish-main-body {
+    position: relative;
+    margin-top: 30px;
+  }
+  .banner-dish-2-vector-top-right {
+    top: -60px;
+    right: 193px;
+  }
+  .banner-dish-2-vector-bottom-right {
+    bottom: 0;
+    right: 195px;
+  }
+ 
+  .banner-three-ellipse img {
+    display: none;
+  }
+  /* Special-Dishes-Section */
+  
+  .Special-Dishes-Section {
+    padding: 20px 0px 70px;
+    background-color: #f3f4f4;
+  }
+  .Special-Dishes-top-body-content h2 {
+    font-size: 40px;
+  }
+
+  .dish-main-card-section .card img {
+    margin-top: 0px;
+  }
+  
+}
+
